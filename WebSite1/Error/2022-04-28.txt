@@ -1,0 +1,18 @@
+[2022-04-28 15:18:14,581] | ERROR | metadata : 'action' 열은  테이블에 속하지 않습니다.
+   위치: System.Data.DataRow.GetDataColumn(String columnName)
+   위치: System.Data.DataRow.get_Item(String columnName)
+   위치: WebCommon.PDCharacterAction.Set(DataRow dr) 파일 C:\Users\Lee\Desktop\WebSite1\WebCommon\MetaData\Character\PDCharacterAction.cs:줄 39
+   위치: MakeMetaData.CreateMetaData() 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\App_Code\System\MakeMetaData.cs:줄 87
+   위치: MetaDataManager.CreateMetaData(Int32 nVersion) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\App_Code\System\MetaDataManager.cs:줄 53
+   위치: MetaDataManager.GetMetaData(Int32 nVersion) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\App_Code\System\MetaDataManager.cs:줄 23
+   위치: MetaDataCommandHandler.Process() 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\App_Code\Handler\MetaDataCommandHandler.cs:줄 28
+   위치: CommandHandler.OnRequest(HttpRequest request, String sCommandName) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\App_Code\Handler\CommandHandler.cs:줄 31
+[2022-04-28 15:19:25,808] | ERROR | metadata : 'action' 열은  테이블에 속하지 않습니다.
+   위치: System.Data.DataRow.GetDataColumn(String columnName)
+   위치: System.Data.DataRow.get_Item(String columnName)
+   위치: WebCommon.PDCharacterAction.Set(DataRow dr) 파일 C:\Users\Lee\Desktop\WebSite1\WebCommon\MetaData\Character\PDCharacterAction.cs:줄 39
+   위치: MakeMetaData.CreateMetaData() 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\App_Code\System\MakeMetaData.cs:줄 87
+   위치: MetaDataManager.CreateMetaData(Int32 nVersion) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\App_Code\System\MetaDataManager.cs:줄 53
+   위치: MetaDataManager.GetMetaData(Int32 nVersion) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\App_Code\System\MetaDataManager.cs:줄 23
+   위치: MetaDataCommandHandler.Process() 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\App_Code\Handler\MetaDataCommandHandler.cs:줄 28
+   위치: CommandHandler.OnRequest(HttpRequest request, String sCommandName) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\App_Code\Handler\CommandHandler.cs:줄 31

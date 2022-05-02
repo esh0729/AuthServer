@@ -1,0 +1,15 @@
+[2022-04-11 22:37:41,367] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-11 22:39:40,939] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-11 22:56:29,986] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-11 22:59:11,435] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-11 23:02:17,910] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-11 23:04:03,698] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-11 23:04:14,390] | ERROR | login : Parsing Error1.(id)
+   위치: LoginCommandHandler.Parse() 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\App_Code\Handler\LoginCommandHandler.cs:줄 30
+   위치: CommandHandler.OnRequest(HttpRequest request, String sCommandName) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\App_Code\Handler\CommandHandler.cs:줄 29

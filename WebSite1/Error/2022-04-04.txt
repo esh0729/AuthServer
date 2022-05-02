@@ -1,0 +1,36 @@
+[2022-04-04 16:33:55,004] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 16:35:50,238] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 16:36:03,066] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 16:52:20,576] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 16:54:11,247] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 16:57:30,478] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 16:57:56,292] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 16:58:02,316] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 16:58:54,612] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 16:59:06,373] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 16:59:38,489] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 17:01:41,754] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 17:02:48,534] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 17:04:47,354] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 17:05:45,833] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 17:06:52,431] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 17:07:03,352] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28
+[2022-04-04 17:08:10,253] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 28

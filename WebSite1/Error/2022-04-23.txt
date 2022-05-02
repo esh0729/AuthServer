@@ -1,0 +1,2 @@
+[2022-04-23 21:46:59,289] | ERROR |  : Invalid Command
+   위치: Command.ProcessRequest(HttpContext context) 파일 C:\Users\Lee\Desktop\WebSite1\WebSite1\Command.ashx:줄 30
